@@ -1,0 +1,6 @@
+D:\Users\mateus.govea\Desktop\Treinamento C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+D:\Users\mateus.govea\Desktop\Treinamento C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+D:\Users\mateus.govea\Desktop\Treinamento C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+D:\Users\mateus.govea\Desktop\Treinamento C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+D:\Users\mateus.govea\Desktop\Treinamento C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+D:\Users\mateus.govea\Desktop\Treinamento C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
